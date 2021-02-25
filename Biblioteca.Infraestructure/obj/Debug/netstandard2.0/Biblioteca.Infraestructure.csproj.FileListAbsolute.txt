@@ -1,0 +1,12 @@
+C:\Users\USUARIO\source\repos\BibliotecaJorgePoveda\Biblioteca.Infraestructure\obj\Debug\netstandard2.0\Biblioteca.Infraestructure.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\BibliotecaJorgePoveda\Biblioteca.Infraestructure\obj\Debug\netstandard2.0\Biblioteca.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\BibliotecaJorgePoveda\Biblioteca.Infraestructure\obj\Debug\netstandard2.0\Biblioteca.Infraestructure.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\BibliotecaJorgePoveda\Biblioteca.Infraestructure\obj\Debug\netstandard2.0\Biblioteca.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\BibliotecaJorgePoveda\Biblioteca.Infraestructure\bin\Debug\netstandard2.0\Biblioteca.Infraestructure.deps.json
+C:\Users\USUARIO\source\repos\BibliotecaJorgePoveda\Biblioteca.Infraestructure\bin\Debug\netstandard2.0\Biblioteca.Infraestructure.dll
+C:\Users\USUARIO\source\repos\BibliotecaJorgePoveda\Biblioteca.Infraestructure\bin\Debug\netstandard2.0\Biblioteca.Infraestructure.pdb
+C:\Users\USUARIO\source\repos\BibliotecaJorgePoveda\Biblioteca.Infraestructure\bin\Debug\netstandard2.0\Biblioteca.Core.dll
+C:\Users\USUARIO\source\repos\BibliotecaJorgePoveda\Biblioteca.Infraestructure\bin\Debug\netstandard2.0\Biblioteca.Core.pdb
+C:\Users\USUARIO\source\repos\BibliotecaJorgePoveda\Biblioteca.Infraestructure\obj\Debug\netstandard2.0\Biblioteca.Infraestructure.csproj.CopyComplete
+C:\Users\USUARIO\source\repos\BibliotecaJorgePoveda\Biblioteca.Infraestructure\obj\Debug\netstandard2.0\Biblioteca.Infraestructure.dll
+C:\Users\USUARIO\source\repos\BibliotecaJorgePoveda\Biblioteca.Infraestructure\obj\Debug\netstandard2.0\Biblioteca.Infraestructure.pdb

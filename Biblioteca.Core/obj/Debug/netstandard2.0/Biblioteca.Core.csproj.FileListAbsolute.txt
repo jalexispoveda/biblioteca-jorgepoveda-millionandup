@@ -1,0 +1,8 @@
+C:\Users\USUARIO\source\repos\BibliotecaJorgePoveda\Biblioteca.Core\obj\Debug\netstandard2.0\Biblioteca.Core.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\BibliotecaJorgePoveda\Biblioteca.Core\obj\Debug\netstandard2.0\Biblioteca.Core.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\BibliotecaJorgePoveda\Biblioteca.Core\obj\Debug\netstandard2.0\Biblioteca.Core.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\BibliotecaJorgePoveda\Biblioteca.Core\bin\Debug\netstandard2.0\Biblioteca.Core.deps.json
+C:\Users\USUARIO\source\repos\BibliotecaJorgePoveda\Biblioteca.Core\bin\Debug\netstandard2.0\Biblioteca.Core.dll
+C:\Users\USUARIO\source\repos\BibliotecaJorgePoveda\Biblioteca.Core\bin\Debug\netstandard2.0\Biblioteca.Core.pdb
+C:\Users\USUARIO\source\repos\BibliotecaJorgePoveda\Biblioteca.Core\obj\Debug\netstandard2.0\Biblioteca.Core.dll
+C:\Users\USUARIO\source\repos\BibliotecaJorgePoveda\Biblioteca.Core\obj\Debug\netstandard2.0\Biblioteca.Core.pdb

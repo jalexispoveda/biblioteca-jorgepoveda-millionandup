@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <DisableImplicitNamespaceImports>true</DisableImplicitNamespaceImports>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Interfaces\asdasd\**" />
+    <EmbeddedResource Remove="Interfaces\Editori\**" />
+    <None Remove="Interfaces\asdasd\**" />
+  </ItemGroup>
+
+</Project>
