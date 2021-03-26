@@ -1,5 +1,4 @@
-# biblioteca-jorgepoveda-millionandup
-Prueba tecnica Jorge Alexis Poveda
+# biblioteca-jorgepoveda
 
 ## App creada con .NET Core
 
